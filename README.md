@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend Development (React.js, JavaScript, HTML, CSS), Data Science, AI, and Cloud computing.**
 
-- 📫 How to reach me **subhadeepm040@gmail.com**
+- 📫 How to reach me   Email: subhadeepm040@gmail.com
 
 - ⚡ Fun fact **"I can spend hours debugging a single line of code but celebrate like I won a championship when I fix it!"**
 
